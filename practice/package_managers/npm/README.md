@@ -31,6 +31,6 @@
   * 2023/07/03
   
 * NPM tutorial for Beginners
-  * 動画のためスキップ
+  * Done
 * NPM Crash Course
   * 動かないためスキップ
