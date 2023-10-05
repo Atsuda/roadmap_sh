@@ -129,3 +129,17 @@ dist
 .yarn/install-state.gz
 .pnp.*
 moment.min.js
+practice/pick_a_framework/react/react-tutorial-youtube/public/favicon.ico
+practice/pick_a_framework/react/react-tutorial-youtube/public/index.html
+practice/pick_a_framework/react/react-tutorial-youtube/public/logo192.png
+practice/pick_a_framework/react/react-tutorial-youtube/public/logo512.png
+practice/pick_a_framework/react/react-tutorial-youtube/public/manifest.json
+practice/pick_a_framework/react/react-tutorial-youtube/public/robots.txt
+practice/pick_a_framework/react/react-tutorial-youtube/src/App.css
+practice/pick_a_framework/react/react-tutorial-youtube/src/App.js
+practice/pick_a_framework/react/react-tutorial-youtube/src/index.css
+practice/pick_a_framework/react/react-tutorial-youtube/src/index.js
+practice/pick_a_framework/react/react-tutorial-youtube/src/Todo.jsx
+practice/pick_a_framework/react/react-tutorial-youtube/src/TodoList.jsx
+practice/pick_a_framework/react/react-tutorial-youtube/package-lock.json
+practice/pick_a_framework/react/react-tutorial-youtube/package.json
