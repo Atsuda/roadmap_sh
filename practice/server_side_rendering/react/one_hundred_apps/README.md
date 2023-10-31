@@ -4,3 +4,4 @@ web アプリを 100 個作るプロジェクト
 `npm start`
 
 1. [counter](./counter) : シンプルなカウンター
+2. [title_clock](./title_clock) : タイトルに時計を表示する
